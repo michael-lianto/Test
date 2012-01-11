@@ -1,0 +1,2 @@
+SET GLOBAL max_sp_recursion_depth = 40;
+call showAllChild(27);
